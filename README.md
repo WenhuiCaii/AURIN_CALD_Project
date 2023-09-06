@@ -4,8 +4,11 @@ The RMIT AURIN High Impact Project, a Nationwide longitudinal database for Emerg
 Four datasets were generated and are listed below:
 
 Dataset 1: Identified areas of Emerging CALD Communities at the SA1 level between the census years of 2001, 2006, 2011, 2016 and 2021
+
 Dataset 2: Measures of social inequality for CALD populations derived from longitudinal census datasets of 2001, 2006, 2011, 2016 and 2021, including demographic and socioeconomic characteristics, such as education, income, and dwelling aspects for each SA1
+
 Dataset 3: Measures of the environmental inequality among CALD populations derived from the time-series Landsat satellite images from 2001 to 2021, including land surface temperature, urban heat intensity index, NDVI (normalized difference vegetation index) and NDBI (normalized difference built-up index) for each SA1
+
 Dataset 4: A composite integrated heat vulnerability index for CALD populations which combines heat exposure indicator, heat sensibility indicator, and heat adaptive capability indicator that is derived from the social and environmental variables in the preceding Dataset 2 and 3 in the years 2011, 2016 and 2021 for each SA1
 
 Database workflow:

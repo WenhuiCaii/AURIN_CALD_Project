@@ -1,2 +1,2 @@
-# AURIN_CALD_Project
-Code delivery of AURIN project: Nationwide longitudinal database for Emerging CALD Communities and social-environmental inequalities
+# AURIN ECALD Project
+The RMIT AURIN High Impact Project, a Nationwide longitudinal database for Emerging CALD Communities and social-environmental inequalities (ECALD Database), aims to establish the first nationwide database of culturally and linguistically diverse (CALD) population changes and socio-economic data derived from five consecutive censuses, and environmental data for the corresponding census years derived from satellite
